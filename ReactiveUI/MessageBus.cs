@@ -42,7 +42,7 @@ namespace ReactiveUI
         }
 
         /// <summary>
-        /// Determins if a particular message Type is registered.
+        /// Determines if a particular message Type is registered.
         /// </summary>
         /// <param name="type">The Type of the message to listen to.</param>
         /// <param name="contract">A unique string to distinguish messages with
