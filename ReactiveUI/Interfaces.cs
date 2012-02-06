@@ -204,7 +204,7 @@ namespace ReactiveUI
         IObservable<T> Listen<T>(string contract = null);
 
         /// <summary>
-        /// Determins if a particular message Type is registered.
+        /// Determines if a particular message Type is registered.
         /// </summary>
         /// <typeparam name="T">The type of the message.</typeparam>
         /// <param name="contract">A unique string to distinguish messages with
